@@ -22,6 +22,10 @@ The attacker and defender use Web search in order to find cutting-edge prompt en
 
 Using these agents, APE iterates $n$ rounds of prompt generation, testing, and refinement to enhance the security of LLMs against prompt-based attacks. 
 
+<img width="430" height="536" alt="Schéma " src="https://github.com/user-attachments/assets/c35813a1-2d63-45b5-99cf-e090915b2a30" />
+
+
+
 ## Reports generated
 
 The defender often wins but sometimes the attacker manages to bypass the defense! The results are very impressive overall. I'll hope you enjoy them as much as we did.
